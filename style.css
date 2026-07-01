@@ -1,0 +1,56 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #dff6dd;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+    text-align: center;
+}
+
+h1{
+    color: green;
+}
+
+h2{
+    color: darkgreen;
+}
+
+ul{
+    text-align: left;
+    display: inline-block;
+}
+
+button{
+    background: green;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover{
+    background: darkgreen;
+}
+
+#dica{
+    font-size: 18px;
+    color: blue;
+    font-weight: bold;
+}
+
+#contador{
+    color: green;
+    font-size: 40px;
+}
